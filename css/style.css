@@ -1,0 +1,10 @@
+select,
+input {
+    display: block;
+    width: 300px;
+    margin-block: 24px;
+    height: 24px;
+}
+#map {
+    height: 400px;
+}
